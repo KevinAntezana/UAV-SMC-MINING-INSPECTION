@@ -1,4 +1,4 @@
-# UAV Autonomous Inspection in Underground Mining (HUALKANA II)
+# UAV Autonomous Inspection in Underground Mining
 
 MATLAB simulation environment for the autonomous navigation of a quadrotor UAV in GPS-denied confined spaces (mining ventilation chimneys). This project integrates nonlinear robust control and sensor fusion to counteract severe aerodynamic disturbances.
 
@@ -18,7 +18,7 @@ Clone the repository and run `main_smc_perturbed.m` in MATLAB. The script execut
 
 ## Results
 ![EKF-SLAM Performance](media/SLAM.jpg)
-*Watch the full 3D simulation video: [Simulacion_UAV_Chimenea.mp4](media/Simulacion_UAV_Chimenea.mp4)*
+*Watch the full 3D simulation video: [Simulacion_UAV_Chimenea.mp4](https://youtu.be/gUs7XQ5MSq8?si=8byVfwY2t0KUZZFE)*
 
 ## Author
 **Kevin Jesú Antezana Livia**
