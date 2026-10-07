@@ -1,5 +1,6 @@
 # UAV Autonomous Inspection in Underground Mining
 
+[![DOI](https://zenodo.org/badge/1404927681.svg)](https://doi.org/10.5281/zenodo.23203171)
 MATLAB simulation environment for the autonomous navigation of a quadrotor UAV in GPS-denied confined spaces (mining ventilation chimneys). This project integrates nonlinear robust control and sensor fusion to counteract severe aerodynamic disturbances.
 
 ## Features
